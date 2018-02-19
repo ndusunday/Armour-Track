@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Armour Keep</string>
+    <string name="app_name">Armour Track</string>
+
+    <string name="facebook_app_id">1823996670945896</string>
+    <string name="fb_login_protocol_scheme">fb1823996670945896</string>
+
 </resources>
